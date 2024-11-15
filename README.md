@@ -7,7 +7,7 @@ A colaborative project with 2 member, where we build a simple calculator which d
 1. add_sub.py: which has addition and subtraction function code
 2. mul-div.py: which has multiplication and division function code
 # Git & Other Commands used in Command Prompt
-1. **'mkdir <file_name>'** to create the folder
+1. 'mkdir <file_name>' to create the folder
 2. cd <file name> to go inside the folder
 3. git init, initializing folder as git repository
 4. manually add all the files
